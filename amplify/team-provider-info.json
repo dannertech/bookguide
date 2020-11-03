@@ -1,0 +1,15 @@
+{
+  "macos": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tbrlistamplify-macos-115900-authRole",
+      "UnauthRoleArn": "arn:aws:iam::814482325293:role/amplify-tbrlistamplify-macos-115900-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::814482325293:role/amplify-tbrlistamplify-macos-115900-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-tbrlistamplify-macos-115900-deployment",
+      "UnauthRoleName": "amplify-tbrlistamplify-macos-115900-unauthRole",
+      "StackName": "amplify-tbrlistamplify-macos-115900",
+      "StackId": "arn:aws:cloudformation:us-east-2:814482325293:stack/amplify-tbrlistamplify-macos-115900/2ae813e0-17a4-11eb-a769-068a5b117f6e",
+      "AmplifyAppId": "dugdus1c7oobm"
+    }
+  }
+}

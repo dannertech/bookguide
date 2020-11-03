@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>764246647144-7qdt74g5gvhujrp07ilsrfaid8i38og2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.764246647144-7qdt74g5gvhujrp07ilsrfaid8i38og2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAH2_3WscZvn7dLyWduwg7KCAROHZP2jf0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>764246647144</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bookguide.dannerop</string>
+	<key>PROJECT_ID</key>
+	<string>bookguide-9064f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookguide-9064f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:764246647144:ios:27b176d484433af59a76dd</string>
+	<key>DATABASE_URL</key>
+	<string>https://bookguide-9064f.firebaseio.com</string>
+</dict>
+</plist>
